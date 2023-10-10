@@ -22,7 +22,7 @@ The payload for the `POST /postName` and `PUT /updateName/{id}` endpoints should
 {
   "fname": "First Name",
   "lname": "Last Name"
-}`` ```none
+}
 `
 ```
 

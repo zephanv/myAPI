@@ -110,6 +110,7 @@ This API is distributed under the MIT License. See [LICENSE.md](https://chat.ope
 ## Contributors
 
 -   [Enrico Zephan Valdez](mailto:enricozephanvaldez@gmail.com) - Creator and maintainer
+-   [Donell Carl Oconer](mailto:donellpie@gmail.com) - Collaborator
 
 ## Contact Information
 
